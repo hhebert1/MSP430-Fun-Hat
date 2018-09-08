@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fun (Obnoxious?) Hat</string>
+    <string name="bluetooth">Bluetooth Connected</string>
+    <string name="highKey">High Key Obnoxious</string>
+    <string name="mediumKey">Medium Key Obnoxious</string>
+    <string name="lowKey">Low Key Obnoxious</string>
+    <string name="turnOff">Please turn it off</string>
+</resources>
